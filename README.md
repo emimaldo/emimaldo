@@ -58,4 +58,10 @@ I’ve led cross-functional teams, acted as Product Owner, and delivered high-av
 
 ---
 
+<div align="center">
+  ![Visitor Count](https://profile-counter.glitch.me/emimaldo/count.svg)
+</div>
+
+<!--[![Emiliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=emimaldo&show_icons=true&theme=dark)]()-->
+
 > 🧠 *"Build it simple. Build it right. Build it to last."*
